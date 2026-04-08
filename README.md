@@ -33,7 +33,11 @@ Me interesa seguir creciendo en el área IT y participar en proyectos reales.
 
 ## 📊 Estadísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iriscayun-ux&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iriscayun-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriscayun-ux&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -54,9 +58,4 @@ Repositorio con proyectos enfocados en programación y bases de datos.
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/iris-cayun-03518570
 
----
 
-⭐ Siempre aprendiendo y mejorando en el mundo del desarrollo
----
-
-⭐ Siempre aprendiendo y mejorando en el mundo del desarrollo
