@@ -31,17 +31,6 @@ Me interesa seguir creciendo en el área IT y participar en proyectos reales.
 
 ---
 
-## 📊 Estadísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iriscayun-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriscayun-ux&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📂 Proyectos Destacados
 
 🔹 **Sistema de Gestión Alquimax**  
