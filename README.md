@@ -1,32 +1,62 @@
 <h1 align="center">👩‍💻 Iris Cayun</h1>
 
 <p align="center">
-Analista Programador | Ingeniería en Informática
+Analista Programador | Estudiante de Ingeniería en Informática
 </p>
 
 ---
 
-## 🚀 Sobre mí
-Desarrolladora enfocada en sistemas de gestión y soluciones tecnológicas.  
-Interesada en seguir creciendo en el área IT.
+##  Sobre mí
+Soy desarrolladora enfocada en la creación de sistemas de gestión y soluciones tecnológicas.  
+Me interesa seguir creciendo en el área IT y participar en proyectos reales.
 
 ---
 
 ## 🛠️ Tecnologías
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+<h3 align="center">💻 Desarrollo</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
+</p>
+
+<h3 align="center">🗄️ Base de Datos</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+</p>
+
+<h3 align="center">⚙️ Herramientas</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 📊 Estadísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iriscayun-ux&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
-- Sistema Alquimax  
-- AlkeWallet (Billetera digital)  
-- Portafolio Iris Tech  
+
+🔹 **Sistema de Gestión Alquimax**  
+Sistema desarrollado en Python para la gestión de productos, clientes y operaciones internas.
+
+🔹 **AlkeWallet (Billetera Digital)**  
+Aplicación que simula una billetera digital, gestionando transacciones y lógica financiera.
+
+🔹 **Portafolio Iris Tech**  
+Repositorio con proyectos enfocados en programación y bases de datos.
 
 ---
 
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/iris-cayun-03518570
+
+---
+
+⭐ Siempre aprendiendo y mejorando en el mundo del desarrollo
+---
+
+⭐ Siempre aprendiendo y mejorando en el mundo del desarrollo
